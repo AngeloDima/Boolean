@@ -1,0 +1,112 @@
+body{
+
+  background-image: url(img/asd.jpg);
+  background-size: 1920px 1080px;
+  background-size: cover;
+
+
+
+}
+
+.Contenitore{
+  width: 1920;
+  height: 1080px;
+}
+
+.bloccoSbiadito{
+  width: 62.5%;
+  height: 79.5%;
+  border-radius: 2.3%;
+  background-color: rgba(0,0,0,0.5);
+  margin: auto;
+  margin-top: 20px;
+
+}
+
+#logo{
+  height: 12%;
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+#ScrLogo{
+  color: rgb(20,240,0);
+  margin-left: 30%;
+  font-size: 35px;
+  font-family: arial;
+}
+
+
+.BottoniSFO{
+  background-color: rgb(0,235,51);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 0.5%
+
+}
+
+.Bottoni{
+  margin-left: 35%
+}
+
+
+
+.Caselle{
+  margin-top: 3%;
+  margin-left: 8%;
+  display: inline-block;
+}
+
+.i3H2{
+  display: inline-block;
+  color: white;
+  font-family: arial;
+  font-weight: 590;
+}
+
+.i3P{
+  color: white;
+  font-family: arial;
+  font-weight: 450;
+  margin-left: 8%;
+  margin-top: 1%;
+  margin-bottom: 0.5%
+}
+
+
+#BloccoArancio{
+  width: 28%;
+  height: 3.8%;
+  background-color: #f5b453;
+  border-radius: 6px;
+  margin-left: 8%;
+}
+
+
+#BloccoVerde{
+  width: 52%;
+  height: 3.8%;
+  background-color: #1ec31e;
+  border-radius: 6px;
+  margin-left: 8%;
+
+}
+
+
+#BloccoRosso{
+  width: 15%;
+  height: 3.8%;
+  background-color: #be4141;
+  border-radius: 6px;
+  margin-left: 8%;
+
+}
+
+
+
+*{
+  margin: 0
+}
